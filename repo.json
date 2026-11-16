@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "Author": "nosut",
+    "Name": "FlagShare",
+    "InternalName": "FlagShare",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Shows party members' map flags as labeled pins on your map and minimap,\nand lists them in the /flags window. Click a member's flag to copy it\ninto your own. Everyone needs FlagShare connected to the same relay.",
+    "Punchline": "Share your map flag with your party without using chat.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/nosut/FlagShare",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/nosut/DalamudPlugins/releases/download/FlagShare-0.1.0.0/FlagShare.zip",
+    "DownloadLinkUpdate": "https://github.com/nosut/DalamudPlugins/releases/download/FlagShare-0.1.0.0/FlagShare.zip",
+    "DownloadLinkTesting": "https://github.com/nosut/DalamudPlugins/releases/download/FlagShare-0.1.0.0/FlagShare.zip",
+    "LastUpdate": 1794807956,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]

@@ -1,6 +1,36 @@
 [
   {
     "Author": "nosut",
+    "Name": "Achievement Browser",
+    "InternalName": "AchievementBrowser",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Shows every achievement in the game's own category tree, with search and\nfilters that work across all categories at once.\n\n- Search by name, description or reward\n- Filter by reward type (mount, minion, title, ...) and earned status\n- Hide achievements whose rewards you already own\n- Pin achievements and watch their progress in a small tracker window",
+    "Punchline": "Search, filter and track achievements without the category maze.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "achievements",
+      "search",
+      "tracker"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/nosut/DalamudPlugins",
+    "DownloadLinkInstall": "https://github.com/nosut/DalamudPlugins/releases/download/AchievementBrowser-0.1.0.0/AchievementBrowser.zip",
+    "DownloadLinkUpdate": "https://github.com/nosut/DalamudPlugins/releases/download/AchievementBrowser-0.1.0.0/AchievementBrowser.zip",
+    "DownloadLinkTesting": "https://github.com/nosut/DalamudPlugins/releases/download/AchievementBrowser-0.1.0.0/AchievementBrowser.zip",
+    "LastUpdate": 1794808581,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  },
+  {
+    "Author": "nosut",
     "Name": "FlagShare",
     "InternalName": "FlagShare",
     "AssemblyVersion": "0.1.1.0",
